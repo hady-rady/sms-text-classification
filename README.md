@@ -22,6 +22,7 @@ The goal is to build a model that identifies unwanted spam messages and distingu
 
 ## Results
 Successfully completed the freeCodeCamp SMS Text Classification challenge.
+![SMS Text Classification Test Passed](SMS_Text_Classification_Test_Passed.png)
 
 ## How to Run
 Open `sms_text_classification.ipynb` in Google Colab or Jupyter Notebook and run the cells in order.
